@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="center">
-  <img src="https://habrastorage.org/getpro/habr/upload_files/050/996/cfd/050996cfdf71d372cd653572d012c8ac.jpg" width="1000" >
+  <img src="https://habrastorage.org/getpro/habr/upload_files/050/996/cfd/050996cfdf71d372cd653572d012c8ac.jpg" width="500" >
 </p>
 
 
