@@ -2,7 +2,7 @@
 <h1 align="start">I am Aleksandr, JS enthusiast 👋 <br /></h1> 
 
 <p align="start">
-  <img src="https://habrastorage.org/getpro/habr/upload_files/050/996/cfd/050996cfdf71d372cd653572d012c8ac.jpg" width="500" >
+  <img src="https://habrastorage.org/getpro/habr/upload_files/050/996/cfd/050996cfdf71d372cd653572d012c8ac.jpg" width="200" >
 </p>
 
 ###   Here are some ideas to get you started:
