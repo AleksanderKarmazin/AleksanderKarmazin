@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">I am Aleksandr, JS enthusiast !<br /></h1>  
 <p align="center">
-  <img src="https://habrastorage.org/getpro/habr/upload_files/050/996/cfd/050996cfdf71d372cd653572d012c8ac.jpg" width="500" >
+  <img src="https://habrastorage.org/getpro/habr/upload_files/050/996/cfd/050996cfdf71d372cd653572d012c8ac.jpg" width="1000" >
 </p>
 
 
