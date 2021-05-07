@@ -1,4 +1,9 @@
 ### Hi there 👋
+<h1 align="center">Agroic - Reforming Agri Living <br /></h1>  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49508237/104348350-a5485a80-5527-11eb-854b-b2477bfeb96d.png?" width="500" >
+</p>
+
 
 Here are some ideas to get you started:
 
