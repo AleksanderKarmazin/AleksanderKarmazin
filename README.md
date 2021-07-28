@@ -16,6 +16,38 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h1 align='center'>Greetings!!! I'm Alvaro Israel 🇧🇷</h1>
+
+<h5 align='center'>If you are here, please leave a ⭐️ at <a href='https://github.com/AlvaroIsrael/gobarber-app'>Go
+Barber App</a>! Show your support! 👍🏻</h6>
+
+<img align='right' width='174' height='190' src='https://raw.githubusercontent.com/AlvaroIsrael/AlvaroIsrael/main/assets/avatar.png' alt='Alvaro Israel Nunes Leite'>
+
+### About me:
+
+- 🔭 Personal projects: [Monokai Dark Green](https://github.com/AlvaroIsrael/monokai-dark-green),
+  [Go Barber App](https://github.com/AlvaroIsrael/gobarber-app)
+
+- 🌱 I’m currently learning: **[GitHub Copilot](https://github.com/github/copilot-preview)**
+
+- 📫 How to reach me? **israel.nunes.leite@gmail.com**
+  or **[LinkedIn](https://www.linkedin.com/in/alvaroisraeldesenvolvedor/)**
+
+- 🎂 Fun fact: **The Cake?! Well... It's a lie.**
+
+```tsx
+import React from 'react';
+
+const Profile: React.FC = () => {
+  return (
+    <h3>A passionate developer from Brazil!</h3>
+  );
+};
+
+export default Profile;
+```
+
+
 <h1 class="text">Codewars Profile Badges</h1>
 <div>
   <h2 class="text">Large Badge:</h2>
